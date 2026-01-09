@@ -51,7 +51,7 @@ button {
 
 .card {
   display: flex;
-  width: 20rem;
+  width: 17rem;
   background-color: var(--foreground-colour);
   border-radius: 8px;
   overflow: hidden;
