@@ -3,7 +3,7 @@
 }
 
 .rectangle-divider {
-  height: 1rem;
+  height: 0.7rem;
   border-radius: 7px;
   background-color: var(--foreground-colour);
   border-color: var(--foreground-colour);
